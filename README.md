@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Karan Sharma</h1>
-<h3 align="center">A passionate frontend developer and DevOps engineer from India</h3>
+<h3 align="center">A passionate Java Backend developer and Devops Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan1134&label=Profile%20views&color=0e75b6&style=flat" alt="karan1134" /> </p>
 
-- 🔭 I’m currently working on **creating a API project**
+- 🔭 I’m currently working on **Java and SpringBoot**
 
-- 🌱 I’m currently learning **python and neural networks**
+- 🌱 I’m currently learning **Rust and Flutter**
 
 - 📫 How to reach me **karan.leo420@gmail.com**
 
