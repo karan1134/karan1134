@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Java and SpringBoot**
 
-- 🌱 I’m currently learning **Kafka and System Design*
+- 🌱 I’m currently learning **Kafka and System Design**
 
 - 📫 How to reach me **karan.leo420@gmail.com**
 
